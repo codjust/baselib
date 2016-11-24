@@ -31,7 +31,7 @@ The Output:
 {4,a=1,c={d=2},e="hello world"} 
 
 ``` 
-example common.go:(a package md5 function for golang)
+example common.go:(a package md5 function for golang,Only can convert int and string)
 ```go
 package main
 
