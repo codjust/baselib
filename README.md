@@ -10,8 +10,10 @@ Content
 
 Description
 ===========
-something usually use functions,we can collect it or conclude it by ourselves.<br>
+something usually use functions,we can collect it or conclude it by ourselves.
+
 [Back to TOC](#content)
+
 Synopsis
 ==========
 example print_tb.lua:
